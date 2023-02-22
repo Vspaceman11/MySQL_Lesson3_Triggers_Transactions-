@@ -100,5 +100,5 @@ FOR EACH ROW
     
 DELETE FROM person WHERE id = 1; |
 
-SELECT * FROM person;
+SELECT * FROM person; |
 
